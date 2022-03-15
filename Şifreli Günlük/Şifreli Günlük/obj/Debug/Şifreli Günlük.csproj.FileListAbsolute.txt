@@ -1,0 +1,11 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\bin\Debug\Şifreli Günlük.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\bin\Debug\Şifreli Günlük.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\bin\Debug\Şifreli Günlük.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli Günlük.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli_Günlük.Ana_Sayfa.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli_Günlük.Diary.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli_Günlük.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli_Günlük.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli Günlük.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli Günlük.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\Şifreli Günlük\Şifreli Günlük\obj\Debug\Şifreli Günlük.pdb

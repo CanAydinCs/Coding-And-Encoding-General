@@ -1,0 +1,5 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\CodingAndEncoding\CodingAndEncoding\bin\Debug\CodingAndEncoding.dll
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\CodingAndEncoding\CodingAndEncoding\bin\Debug\CodingAndEncoding.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\CodingAndEncoding\CodingAndEncoding\obj\Debug\CodingAndEncoding.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\CodingAndEncoding\CodingAndEncoding\obj\Debug\CodingAndEncoding.dll
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\CodingAndEncoding\CodingAndEncoding\obj\Debug\CodingAndEncoding.pdb

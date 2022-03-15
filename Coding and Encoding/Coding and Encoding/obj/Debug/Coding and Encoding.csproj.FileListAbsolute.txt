@@ -1,0 +1,10 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\bin\Debug\Coding and Encoding.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\bin\Debug\Coding and Encoding.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\bin\Debug\Coding and Encoding.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\obj\Debug\Coding and Encoding.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\obj\Debug\Coding_and_Encoding.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\obj\Debug\Coding_and_Encoding.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\obj\Debug\Coding and Encoding.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\obj\Debug\Coding and Encoding.csproj.CoreCompileInputs.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\obj\Debug\Coding and Encoding.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\matematik ile ilgili olanlar\Coding and Encoding\Coding and Encoding\obj\Debug\Coding and Encoding.pdb

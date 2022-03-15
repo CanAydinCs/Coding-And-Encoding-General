@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76e34ca8-fd0c-405f-948b-620da945bd1e": {
+      "ProjectGuid": "76e34ca8-fd0c-405f-948b-620da945bd1e",
+      "DisplayName": "Şifreli Günlük",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
